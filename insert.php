@@ -1,6 +1,6 @@
 <?php
     // functie: formulier en database insert bier
-    // auteur: esad
+    // auteur: Esad
 
     echo "<h1>Insert Bier</h1>";
 

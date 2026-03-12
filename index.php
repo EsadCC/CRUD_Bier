@@ -10,7 +10,7 @@
 
     <?php
     // functie: Programma CRUD bieren
-    // auteur: esad
+    // auteur: Esad
 
     // Initialisatie
     include 'functions.php';

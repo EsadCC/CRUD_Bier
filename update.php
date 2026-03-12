@@ -1,6 +1,6 @@
 <?php
     // functie: update bier
-    // auteur: esad
+    // auteur: Esad
 
     require_once('functions.php');
 

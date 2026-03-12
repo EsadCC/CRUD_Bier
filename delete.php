@@ -1,5 +1,5 @@
 <?php
-// auteur: esad
+// auteur: Esad
 // functie: verwijder een bier op basis van de brouwcode
 include 'functions.php';
 
